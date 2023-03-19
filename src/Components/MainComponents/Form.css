@@ -1,0 +1,39 @@
+.form {
+    margin-top: 100px;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    width: 671px;
+    padding: 28px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    border: 1px solid gray;
+    position: relative;
+    border-radius: 12px;
+    background-color: white;
+}
+.form input {
+    width: 616px;
+    height: 30px;
+}
+.baa {
+    width: 117px;
+    height: 40px;
+    background-color: blueviolet;
+    border-color: blueviolet;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+}
+.baa:hover {
+    background-color: rgb(134, 65, 186);
+    border-color: rgb(134, 65, 186);
+}
+.form p {
+    font-weight: bold;
+    font-size: 20px;
+}
